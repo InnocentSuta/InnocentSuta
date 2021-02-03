@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning Angular & AWS
 - 👯 I’m looking to collaborate on anything 
 - 🤔 I’m looking for help with Angular 
-- 📫 How to reach me: https://innocentsuta.github.io/Personal_website/
+- 📫 How to reach me: contacts available here->  https://innocentsuta.github.io/Personal_website/
