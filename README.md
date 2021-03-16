@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on ArtShop and marketplace application
-- 🌱 I’m currently learning Angular & AWS
+- 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on anything 
-- 🤔 I’m looking for help with Angular 
+- 🤔 I’m looking for help with React Js
 - 📫 How to reach me: contacts available here->  https://innocentsuta.github.io/Personal_website/
