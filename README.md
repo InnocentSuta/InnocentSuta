@@ -22,7 +22,24 @@
             <ul>
                 <li><samp>Django | ReactJs |Angular </samp></li>
             </ul>
+        </li>
         <li>
+            <p><samp>Data Science (ML / AI)<samp></p>
+            <ul> 
+                <li><samp>Pandas | Numpy </samp></li>
+            </ul>
+        </li>
+
      </ul>
      </li>
 </ul>
+
+![Innocent Suta's github stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&count_private=true&show_icons=true) **|**
+
+
+
+
+
+
+
+
