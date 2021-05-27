@@ -6,13 +6,12 @@
 
 
 <h3><sample> My Tech Stack </sample></h3>
-
 <ul>
     <li>
         <p><samp><b>languages</b></samp></p>
         <ul>
             <li><samp> Python | Java | C/C++ </samp></li>
-            <li><samp> Html | Css | JavaScript</samp></li>
+            <li><samp> Html   | Css  | JavaScript</samp></li>
         </ul>
     </li>
      <p><samp><b>Frameworks & Tools</b></samp></p>
