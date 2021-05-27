@@ -29,13 +29,11 @@
                 <li><samp>Pandas | Numpy </samp></li>
             </ul>
         </li>
-
      </ul>
      </li>
 </ul>
 
-![Innocent Suta's github stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&count_private=true&show_icons=true) **|**
-
+![Innocent Suta's github stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&count_private=true&show_icons=true)
 
 
 
