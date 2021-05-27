@@ -17,7 +17,7 @@
      <p><samp><b>Frameworks & Tools</b></samp></p>
      <ul>
         <li>
-            <p><samp>Web Development Frameworks</samp></p>
+            <p><sample>Web Development Frameworks</samp></p>
             <ul>
                 <li><samp>Django | ReactJs |Angular </samp></li>
             </ul>
