@@ -35,6 +35,9 @@
 
 ![Innocent Suta's github stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&count_private=true&show_icons=true)
 
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InnocentSuta&langs_count=5&theme=tokyonight)]()
+
+
 
 
 
