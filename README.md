@@ -10,7 +10,7 @@
     <li>
         <p><samp><b>Languages</b></samp></p>
         <ul>
-            <li><samp> Python | Java | C/C++ </samp></li>
+            <li><samp> Python | Java | PHP | C/C++ </samp></li>
             <li><samp> Html | Css | JavaScript</samp></li>
         </ul>
     </li>
@@ -20,13 +20,13 @@
         <li>
             <p><samp>Web Development Frameworks</samp></p>
             <ul>
-                <li><samp>Django | ReactJs |Angular </samp></li>
+                <li><samp> Django | ReactJs </samp></li>
             </ul>
         </li>
         <li>
             <p><samp>Data Science (ML / AI)<samp></p>
             <ul> 
-                <li><samp>Pandas | Numpy </samp></li>
+                <li><samp> Pandas | Numpy </samp></li>
             </ul>
         </li>
      </ul>
