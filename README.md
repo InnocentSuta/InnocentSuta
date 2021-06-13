@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on ArtShop and marketplace application
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning React Js and Laravel
 - 👯 I’m looking to collaborate on anything 
 - 🤔 I’m looking for help with React Js
 - 📫 How to reach me: contacts available here->  https://innocentsuta.github.io/Personal_website/
@@ -10,8 +10,8 @@
     <li>
         <p><samp><b>Languages</b></samp></p>
         <ul>
-            <li><samp> Python | Java | PHP | C/C++ </samp></li>
-            <li><samp> Html | Css | JavaScript</samp></li>
+            <li><samp> Python | PHP | Java | C/C++ </samp></li>
+            <li><samp> Html | Css | JavaScript </samp></li>
         </ul>
     </li>
     <li>
@@ -20,7 +20,7 @@
         <li>
             <p><samp>Web Development Frameworks</samp></p>
             <ul>
-                <li><samp> Django | ReactJs </samp></li>
+                <li><samp> Django | Laravel | ReactJs </samp></li>
             </ul>
         </li>
         <li>
