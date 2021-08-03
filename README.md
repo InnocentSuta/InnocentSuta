@@ -10,7 +10,7 @@
     <li>
         <p><samp><b>Languages</b></samp></p>
         <ul>
-            <li><samp> Python | PHP | Java | C/C++ </samp></li>
+            <li><samp> Python | Java | C/C++ </samp></li>
             <li><samp> Html | Css | JavaScript </samp></li>
         </ul>
     </li>
@@ -20,7 +20,7 @@
         <li>
             <p><samp>Web Development Frameworks</samp></p>
             <ul>
-                <li><samp> Django | Laravel | ReactJs </samp></li>
+                <li><samp> Django | ReactJs </samp></li>
             </ul>
         </li>
         <li>
