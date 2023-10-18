@@ -33,7 +33,7 @@
      </li>
 </ul>
 
-[Innocent Suta's GitHub stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+[Innocent Suta's GitHub stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&show_icons=true&hide_border=true)
 
 
 
