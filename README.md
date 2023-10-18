@@ -34,6 +34,7 @@
 </ul>
 
 ![Innocent Suta's github stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta&count_private=true&show_icons=true)
+[![Innocent Suta's GitHub stats](https://github-readme-stats.vercel.app/api?username=InnocentSuta)](https://github.com/InnocentSuta/github-readme-stats)
 
 
 
